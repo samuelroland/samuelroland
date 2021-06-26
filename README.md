@@ -1,8 +1,8 @@
 # Hi, I'm Samuel Roland !
-
+![banner image with user description](banner.png)
 ## 💻 A curious and hardworking student developer with a passion for FOSS, side projects, designing and building applications, and sharing experiences.
 
-### 🖥️ 🙂 Here are the most interesting dev projects I work on (finished or under development):
+### 🖥️ 🙂 Here are the most interesting dev projects I've worked on (finished or under development):
 1. [**KanFF**](https://github.com/samuelroland/KanFF#readme) - An opensource web application to manage projects with kanban boards, for groups, collectives, and associations.  
 *A fascinating project to help manage other projects inside more or less big collectives.*
 1. [**kanff.org**](https://kanff.org) - The landing page for the KanFF project.  
