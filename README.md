@@ -1,4 +1,3 @@
-# Hi, I'm Samuel Roland !
 ![banner image with user description](banner.png)
 ## 💻 A curious and hardworking student developer with a passion for FOSS, side projects, designing and building applications, and sharing experiences.
 
