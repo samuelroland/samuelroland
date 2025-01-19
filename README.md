@@ -7,6 +7,7 @@ I develop it on [codeberg.org](https://codeberg.org/delibay) to avoid Github.
 1. [**PLX**](https://plx.rs): **Practice programming exos in delightful Learning eXperience**.
 1. [**PRJS**](https://github.com/samuelroland/prjs): **Practice Runner for JavaScript**. Run small JS exos in your terminal with instant feedback.
 1. [**productivity**](https://codeberg.org/samuelroland/productivity): A git repository to add cheatsheets and practice opportunities to **discover productivity tools and get started with a simple practice driven initiation.**. There is a mix of french and english notes.
+1. [**setup**](https://codeberg.org/samuelroland/setup): My Fedora setup almost fully automated with Ansible !
 
 **Important**: I do most of my projects on [codeberg.org](https://codeberg.org/samuelroland) (except for schools or some repos that will be migrated later).
 
