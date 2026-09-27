@@ -1,15 +1,17 @@
 ![banner image with user description](banner.png)
 ## 💻 A curious and hardworking student developer with a passion for FOSS, side projects, designing and building applications, and sharing experiences.
 
+**Important**: I do most of my projects on [codeberg.org](https://codeberg.org/samuelroland) (except for schools or some repos that will be migrated later).
+
 ### 🖥️ 🙂 Current projects
+<!--
 1. [**Delibay**](https://delibay.org): **Redefine the IT learning experience with deliberate practice**. Empower IT students to train intensively on IT skills to develop efficient mental representations. Help IT teachers to design practice-oriented courses and give feedback at scale.
    I develop it on [codeberg.org](https://codeberg.org/delibay).
+   -->
 1. [**LXUP project**](https://lxup.org/).  Magical IT productivity tools at your fingertips. Upgrade your IT learning experience. Productive Linux setups in just one command.
   I develop it on [here](https://codeberg.org/samuelroland/lxup) and content is writtent [here](https://codeberg.org/samuelroland/productivity).
-1. [**PLX**](https://plx.rs): **Practice programming exos in delightful Learning eXperience**.
 1. [**setup**](https://codeberg.org/samuelroland/setup): My Fedora setup almost fully automated with Ansible !
 
-**Important**: I do most of my projects on [codeberg.org](https://codeberg.org/samuelroland) (except for schools or some repos that will be migrated later).
 
 ## Archived
 1. [**KanFF**](https://github.com/samuelroland/KanFF#readme) - **An opensource web application to manage projects with kanban boards, for groups, collectives, and associations.**  
